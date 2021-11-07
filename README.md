@@ -10,7 +10,7 @@ I'm always looking for new and exciting oppounities and currently seeking a coop
 ## 🎏 Some More Information on What I Do
 
 🍂 I’m currently working on <a href="https://github.com/bbowler1740/CSCN72030-Anemoi">Outdoor Monitoring System</a>  
-🎆 My Favorite project (Active) is a <a href="https://github.com/Gabeele/Plant-Monitor-System">Plant Monitoring System using an Arduino </a>
+🎆 My Favorite project (Active) is a <a href="https://github.com/Gabeele/Plant-Monitor-System">Plant Monitoring System using an Arduino </a>  
 🌌 I’m currently learning Flutter, Xamerin, and C#  
 🌼 Fun fact I have a lot of plants.  
 
