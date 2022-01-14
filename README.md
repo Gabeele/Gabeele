@@ -1,4 +1,4 @@
-<h1>Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hello there! </h1>
 
 ### 🎓 My name is Gavin Abeele and I'm a student in Computer Science at Conestoga College.
 
