@@ -2,7 +2,7 @@
 
 ### 🎓 My name is Gavin Abeele and I'm a student in Computer Science at Conestoga College.
 
-### 💼Currently working as a Software Quality Engineer at TD Bank Group.
+### 💼 Currently working as a Software Quality Engineer at TD Bank Group.
 
 <!-- I'm always looking for new and exciting oppounities and currently seeking a coop position for summer 2023! -->
 
