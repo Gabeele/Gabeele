@@ -11,9 +11,9 @@
 
 ## 🎏 Some More Information on What I Do
 
-  🍂 I’m currently working on <a href="https://github.com/bbowler1740/CSCN72030-Anemoi">Outdoor Monitoring System</a>  
+  🍂 I’m currently working on <a href="https://github.com/Gabeele/Data-Strctures-in-C-">Data Strcutres</a>  
   🎆 My Favorite project is a <a href="https://github.com/Gabeele/Plant-Monitor-System">Plant Monitoring System using an Arduino </a>  
-  🌌 I’m currently learning Selenium, Java, and C#.<br>
+  🌌 I’m currently learning Selenium, Java, and Advanced C++.<br>
   🌼 Fun fact I have a lot of plants.  
 
 
