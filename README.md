@@ -4,8 +4,11 @@ My name is Gavin Abeele. I am a third year Bachelor of Computer Science student 
 
 # 💫About Me :
 🍂 I’m currently working on a Movie Recommendation System
+
 🎆 My Favorite project is a 7 Segment Display Neural Network
+
 🌌 I’m currently expanding my knowledge of Python, Tensorflow, and ReactJS
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Gav#5834) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gavinabeele) 
