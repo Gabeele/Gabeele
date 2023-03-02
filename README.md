@@ -1,6 +1,6 @@
 # Hi There!
 
-My name is Gavin Abeele. I am a third year Bachelor of Computer Science student at Conestoga College. I am one of the top students in the class, an avid community leader, and I sure love to cook! Currently, I am looking for a 8-month coop placment starting in May, 2023!
+My name is Gavin Abeele. I am a third year Bachelor of Computer Science student at Conestoga College. I am one of the top students in the class, an avid community leader, and I sure love to cook! Currently, I am looking for a 8-month coop placement  starting in May, 2023!
 
 # 💫About Me :
 🍂 I’m currently working on a Movie Recommendation System <br>
