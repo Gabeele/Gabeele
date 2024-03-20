@@ -9,7 +9,6 @@ I'm Gavin Abeele - a recent computer science grad from Conestoga College, a pass
 - 📊 **Machine Learning Aficionado**: Spearheaded projects like a movie recommendation system and a candy sorting machine, showcasing my skills in TensorFlow, PyTorch, and NLTK.
 
 ## 🌐 Socials:
-- [Discord](https://discord.gg/Gav#5834)
 - [LinkedIn](https://linkedin.com/in/gavinabeele)
 - [Portfolio](https://gavinabeele.com)
 
